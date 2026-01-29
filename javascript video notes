@@ -1,0 +1,25 @@
+Notes from web development videos:
+
+ video 1x : none
+ video 2x : i did not no how popular was java script and how versatile it was, it is nice to know 
+ video 3x : always have node js whenever you need to run java script code
+ video 4x : none since i already have vs code and node js installed 
+ video 5x : learned the installation of node js 
+ video 6x : the point of console.log is to output a message to the console windows
+percent s is to make appear your varriable in the text or $(var)
+ video 7x : there's /* for multi line command
+ video 8x : good demo
+ video 9x : var let and const are the three declarations for your variables 
+let and const are more suited for block scoped
+ video 10 : nice demo
+ video 11 : string concatenation is used by the '+', it adds string variables together
+ video 13 : formatting strings is level after the concatenation where you can flip your variables or add them with easier commands
+ video 15 : none 
+ video 17 : ++ = +1 and -- = -1
+ video 19 : none
+ video 21 : these three functions will run depending if theres an exception
+finally whether there is one or not 
+try yes
+catch no
+
+
