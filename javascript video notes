@@ -21,5 +21,27 @@ let and const are more suited for block scoped
 finally whether there is one or not 
 try yes
 catch no
+video 23 :
+to initiate your var : const now = new Date();
+you can customize your date as precise as you want with your vars
+ex: constrandDate: new Date(2015, 3, 12, 6, 25, 58)
+year, month, day, hour, minutes, seconds
+video 25 : for if statements always use === to your numbers so you don't get an error
+video 26 : nice demo for bool, took notes of the code structure
+video 28 : nice demo 
+video 31 : lenght larger than the index, meaning that it will always start at 0
+video 33 : you can do a concatenation of arrays ex:
+let arr1 = ['A', true, 2]
+let arr2 =['B', false, 3]
+let newArr = arr1.concat(arr2)
+video 37 :
+video 41 :
+video 43 :
+video 45 :
+video 47 :
+video 49 :
+video 50 :
+video 51 : 
+
 
 
